@@ -1,0 +1,2 @@
+qemu-system-x86_64: release-spr-alpha-2020-12-23
+qemu-system-x86_64_pcitest: release-spr-alpha-2020-12-23
